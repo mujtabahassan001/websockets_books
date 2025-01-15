@@ -1,4 +1,5 @@
 I make 2 apps in this Auth and Books.
+
 **Auth App:**
 I used JWT Authentication for Token generation through login user
 I make custom user, which is register and login and successfully saves to postgresql database and when we login through its credential ( email and password ) then a jwt token is obtained which is then used to add books.
